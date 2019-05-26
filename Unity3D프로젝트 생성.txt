@@ -1,0 +1,37 @@
+2D : 2D 앱용으로 구성된 빈 프로젝트. Unity의 빌트인 렌더러를 사용.
+3D 환경에서 사용되는 Gizmo을 락을 걸어둔 상태로 프로젝트가 생성.
+Light Object가 설치되지 않은 Sample Scene이 생성
+Camera Object가 설치되어 있으며 2D 환경에 적합한 Setting이 되어 있다.
+
+3D : 3D 앱용으로 구성된 빈 프로젝트, Unity의 빌트인 렌더러를 사용.
+3D 환경이 기본적용되는 모든 구성요소 적용
+Gizmo가 풀려 있고 Light Object가 설치된 Sample Scene이 생성
+Camera Object가 설치되어 있으며 3D 환경에 적합한 Setting이 되어 있다.
+
+3D With Extras : 빌트인 렌더러가있는 새로운 포스트 프로세싱 스택을 활용.
+프리셋, 예제 콘텐츠를 포함한다.
+Probes 셋팅과 Post-proccess Volume(후 처리 볼륨) 이 설치되어 있는 예제 프로젝트이다.
+
+High-Definiition RP : 고화질 RP
+고해상도 Scriptible Render Pipeline을 사용, 
+Shader Model5.0 (DX11 이상)을 지원하는 플랫폼 용 
+게임을 개발하고자하는 하이 엔드 그래픽에 중점을 둔 사람을 위한 프로젝트
+셰이더 그래프
+Post-proccessing(후 처리 볼륨) V2 Stack
+프리셋
+예제 콘텐츠
+
+LightweightRP : Lightweight Render Pipeline을 사용
+Low-End혹은 Middle-End 하드웨어까지 광범위한 모바일 플랫폼을 대상으로하는 사용자 
+또는 실시간 조명 요구가 제한된 게임을 만드는 개발자에게 적합한 프로젝트
+셰이더 그래프
+Post-proccessing(후 처리 볼륨) V2 Stack
+프리셋
+예제 콘텐츠
+
+VR Lightweight RP
+Lightweight Render Pipeline을 사용하며 가상 현실 응용 프로그램에 맞게 조정 된 설정
+셰이더 그래프
+Post-proccessing(후 처리 볼륨) V2 Stack
+프리셋
+예제 콘텐츠
